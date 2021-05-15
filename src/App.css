@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+#mainNav .navbar-brand img {
+  height: 20rem;
+  position: absolute;
+  top: -5.8rem;
+  left: 0;
+  z-index: 999;
+}
+
+#mainNav {
+  background-color: #282c34;
+}
+#page-top{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
